@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e62518d2-43d7-4f7c-abe9-03ac65268950" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/StringDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +45,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringDemo">
-    <configuration name="BaseTypeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_type.BaseTypeTest" />
+  <component name="RunManager" selected="Application.ArrayDemo">
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayDemo" />
       <module name="JavaDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_type.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayDemo" />
         <item itemvalue="Application.StringDemo" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.OperatorDemo" />
         <item itemvalue="Application.TypeConvert" />
-        <item itemvalue="Application.BaseTypeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +140,7 @@
       <workItem from="1570523336538" duration="142000" />
       <workItem from="1570523492573" duration="1629000" />
       <workItem from="1570525140960" duration="56000" />
-      <workItem from="1570525212631" duration="2836000" />
+      <workItem from="1570525212631" duration="3949000" />
     </task>
     <servers />
   </component>
