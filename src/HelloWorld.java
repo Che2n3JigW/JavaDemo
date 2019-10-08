@@ -8,6 +8,7 @@ public class HelloWorld {
         Juice juice = new Juice();
         juice.size = Juice.JuiceSize.SMALL;
         System.out.println(juice.toString());
+
     }
 }
 
