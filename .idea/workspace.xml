@@ -44,13 +44,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DateDemo">
+  <component name="RunManager" selected="Application.FileStreamTest">
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.ArrayDemo" />
       <module name="JavaDemo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BRRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.BRRead" />
+      <module name="JavaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,25 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Main" />
+    <configuration name="FileStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.FileStreamTest" />
       <module name="JavaDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.OperatorDemo" />
-      <module name="JavaDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="operator.*" />
+          <option name="PATTERN" value="io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileStreamTest" />
+        <item itemvalue="Application.BRRead" />
         <item itemvalue="Application.DateDemo" />
         <item itemvalue="Application.ArrayDemo" />
         <item itemvalue="Application.StringDemo" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.OperatorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +139,7 @@
       <workItem from="1570523336538" duration="142000" />
       <workItem from="1570523492573" duration="1629000" />
       <workItem from="1570525140960" duration="56000" />
-      <workItem from="1570525212631" duration="5066000" />
+      <workItem from="1570525212631" duration="6386000" />
     </task>
     <servers />
   </component>
