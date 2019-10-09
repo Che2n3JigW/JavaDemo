@@ -3,7 +3,7 @@ package bean;
 /**
  * 员工类
  */
-public class Employee {
+public class Employee implements InterfaceDemo{
     //名字
     private String name;
     //年龄
@@ -57,5 +57,20 @@ public class Employee {
                 ", designation='" + designation + '\'' +
                 ", salary=" + salary +
                 '}';
+    }
+
+    @Override
+    public void work() {
+        System.out.println("工作");
+    }
+
+    @Override
+    public void eat() {
+        System.out.println("吃饭动作");
+    }
+
+    @Override
+    public void run() {
+        System.out.println("运动动作");
     }
 }
