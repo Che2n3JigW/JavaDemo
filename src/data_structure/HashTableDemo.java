@@ -6,6 +6,7 @@ import java.util.Hashtable;
 public class HashTableDemo {
     public static void main(String args[]) {
         // Create a hash map
+
         Hashtable<String, Double> balance = new Hashtable<>();
         Enumeration<String> names;
         String str;
